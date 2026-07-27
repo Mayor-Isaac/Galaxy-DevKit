@@ -209,3 +209,6 @@ temp/
 
 README_NEXT_STEPS.md
 packages/contracts/governance/test_snapshots/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
