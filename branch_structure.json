@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/defi-protocols-core",
+    "feat/interactive-cli-prompts",
+    "fix/issue-360-interactive-mode",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/defi-protocols-core": "main",
+    "feat/interactive-cli-prompts": "main",
+    "fix/issue-360-interactive-mode": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/defi-protocols-core",
+    "feat/interactive-cli-prompts",
+    "fix/issue-360-interactive-mode",
+    "origin"
+  ]
+}
